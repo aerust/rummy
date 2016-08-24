@@ -1,0 +1,7 @@
+# idea files
+.idea/*
+.idea_modules/*
+
+# target files
+target/*
+project/target/*
